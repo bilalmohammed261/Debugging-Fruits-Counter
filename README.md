@@ -1,5 +1,6 @@
 In this project, let's fix the **Fruits Counter** by applying the concepts we have learned till now.
-
+### Published link below
+https://bdebugfc.ccbp.tech
 ### Refer to the image below:
 
 <br/>
